@@ -4,7 +4,8 @@ Release prepared on 1 October 2026. The verified analysis code, SQL, results, an
 
 ## Checked
 
-- The private `Kvngisaac/retail-sales-analysis` repository exists. The ChatGPT Codex Connector installation uses selected-repository access for this repository. Native repository read access is confirmed.
+- The private `Kvngisaac/retail-sales-analysis` repository is published on `main`. All 38 committed file paths and Git blob hashes match the verified release package, including the dashboard model and binary ZIP. The source commit is a fast-forward from the initial repository commit. The ChatGPT Codex Connector installation uses selected-repository access for this repository. Native read/write access is confirmed.
+- Both completed portfolio cards and project write-ups point to the same private repository. The study footer also links to it. DOM checks assert the actual repository href, separate placeholder behavior, and safe external-link attributes. Existing filter/modal/dashboard checks continue to pass; all 27 protected source/result/model files retain their pre-publication SHA-256 hashes.
 
 - Original analysis validation reports all 14 reconciliation checks passing.
 - Three analysis boundary tests pass.
