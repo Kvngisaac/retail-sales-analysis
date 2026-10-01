@@ -1,0 +1,20 @@
+{
+  "checks": {
+    "source_row_count": true,
+    "row_disposition_reconciliation": true,
+    "independent_python_accepted_lines": true,
+    "independent_python_gross_pence": true,
+    "independent_python_net_pence": true,
+    "independent_python_credits": true,
+    "gross_less_credits_equals_net": true,
+    "monthly_net_reconciliation": true,
+    "country_net_reconciliation": true,
+    "country_month_reconciliation": true,
+    "country_month_invoices_no_double_count": true,
+    "complete_product_control": true,
+    "product_join_no_fanout": true,
+    "partial_final_month_marked": true
+  },
+  "passed": true,
+  "check_count": 14
+}

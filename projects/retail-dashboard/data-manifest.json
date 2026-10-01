@@ -1,0 +1,23 @@
+{
+  "source": {
+    "title": "UCI Online Retail",
+    "url": "https://archive.ics.uci.edu/dataset/352/online+retail",
+    "doi": "https://doi.org/10.24432/C5BW33",
+    "license": "CC BY 4.0",
+    "attribution": "Chen, D. (2015). Online Retail. UCI Machine Learning Repository.",
+    "archive_sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+    "workbook_sha256": "43465a06f2ccf7c8b5bd2892bc7defb52f97487934fe93b16ae4c3936424676d"
+  },
+  "source_analysis_sha256": "891af4e6cf80262070456a995885fcd1bea0c19b4db76c98af4c553644951c60",
+  "countries": 38,
+  "months": 13,
+  "skus": 3914,
+  "product_country_month_segments": 66939,
+  "validation": {
+    "base_checks": 14,
+    "country_month_reconciles": true,
+    "complete_product_segments_reconcile": true
+  },
+  "data_bytes": 1453040,
+  "gzip_bytes": 364040
+}

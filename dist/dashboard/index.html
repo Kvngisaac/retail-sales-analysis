@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#142a25">
+  <title>Retail Performance Dashboard · Justin Pierite</title>
+  <meta name="description" content="An interactive retail dashboard built on verified SQL analysis. Filter invoice metrics by country and month, inspect complete SKU rankings, and export the selected report.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23142a25'/%3E%3Cpath d='M8 23V16M16 23V10M24 23V6' stroke='%23bce6ca' stroke-width='4'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script><script src="dashboard-core.js" defer></script><script src="dashboard.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#report">Skip to report</a>
+  <header class="site-header"><a class="brand" href="https://justin-pierite-data-work.kvngisaa.chatgpt.site/"><span class="brand-mark">JP</span><span>Justin Pierite <small>Data portfolio</small></span></a><nav aria-label="Report navigation"><a href="https://justin-pierite-data-work.kvngisaa.chatgpt.site/#retail-analysis">SQL case study</a><a href="../downloads/retail-dashboard.zip" download class="download-link">Download dashboard</a></nav></header>
+  <main id="report" tabindex="-1">
+    <div class="report-heading"><div><span class="eyebrow">VISUALIZATION / RETAIL CASE STUDY</span><h1>Retail performance</h1><p>Explore invoice value by period and market. Every view uses the verified SQL study’s row and money policies.</p></div><span class="source-period">HISTORICAL DATA<br><strong>Dec 2010 – Dec 2011</strong></span></div>
+    <section class="controls" aria-label="Report controls">
+      <div class="control country-control"><label for="country">Customer country</label><select id="country"><option value="all">All countries</option></select></div>
+      <div class="control"><label for="start-month">From month</label><select id="start-month"></select></div>
+      <div class="control"><label for="end-month">Through month</label><select id="end-month"></select></div>
+      <div class="control"><label for="measure">Chart measure</label><select id="measure"><option value="net">Net invoice value</option><option value="gross">Positive invoice value</option><option value="credits">Credit / negative-line value</option></select></div>
+      <label class="checkbox-label"><input type="checkbox" id="complete-only">Full months only</label>
+      <div class="control-actions"><button id="reset" type="button" class="secondary-button">Reset</button><button id="export" type="button" class="primary-button">Export report CSV</button></div>
+    </section>
+    <p id="report-status" class="report-status" role="status" aria-live="polite" aria-atomic="true"></p>
+    <div id="empty-range" class="empty-range" hidden><h2>No complete months in this range.</h2><p>Include the partial month, choose another range, or reset the report.</p></div>
+    <div class="kpis" aria-label="Selected country and period metrics">
+      <div class="kpi kpi-primary"><span>Net invoice value</span><strong id="net-kpi">—</strong><small>Positive value less negative-line value</small></div>
+      <div class="kpi"><span>Positive invoice value</span><strong id="gross-kpi">—</strong><small>Positive priced invoice lines</small></div>
+      <div class="kpi"><span>Credit / negative-line value</span><strong id="credit-kpi">—</strong><small>Magnitude of negative priced lines</small></div>
+      <div class="kpi"><span>Sale invoices</span><strong id="invoice-kpi">—</strong><small>Distinct positive sale invoices</small></div>
+    </div>
+    <p class="metric-note">Values are GBP. Totals include postage and manual charges. They measure invoice value, without establishing accounting revenue or profit. December 2011 ends on the 9th.</p>
+    <div class="chart-grid">
+      <section class="panel" aria-labelledby="trend-title"><div class="panel-title"><h2 id="trend-title">Monthly net invoice value</h2><span id="month-count" class="count-tag"></span></div><p class="panel-note">Selected country and period. Select a month to inspect it. Bars show magnitude; negative values use red.</p><div id="monthly-chart" class="monthly-chart"></div></section>
+      <section class="panel" aria-labelledby="market-title"><div class="panel-title"><h2 id="market-title">Market context</h2><span id="market-count" class="count-tag"></span></div><p class="panel-note">All countries in the selected period, ranked by the chart measure. The selected country is highlighted.</p><ol id="market-chart" class="rank-list"></ol></section>
+    </div>
+    <section class="panel products-panel" aria-labelledby="products-title"><div class="panel-title"><h2 id="products-title">Leading merchandise-like SKUs</h2><span id="product-count" class="count-tag"></span></div><p class="panel-note">Selected country and period. Ranked from every eligible SKU in the dataset, using digit-leading stock codes as a merchandise proxy. Charges and alphabetic adjustment codes are excluded here.</p><div class="table-scroll"><table><caption class="sr-only">Top ten merchandise-like SKUs for the selected country, period, and measure</caption><thead><tr><th scope="col">Rank</th><th scope="col">Product</th><th scope="col">SKU</th><th scope="col">Positive value</th><th scope="col">Credits</th><th scope="col">Net value</th></tr></thead><tbody id="products-body"></tbody></table></div></section>
+    <details class="panel details-panel"><summary>Inspect monthly values</summary><div class="table-scroll"><table><caption class="sr-only">Exact selected monthly values</caption><thead><tr><th scope="col">Month</th><th scope="col">Positive value</th><th scope="col">Credits</th><th scope="col">Net value</th><th scope="col">Sale invoices</th></tr></thead><tbody id="monthly-body"></tbody></table></div></details>
+    <div class="notes-grid">
+      <section class="method-note"><span class="eyebrow">READ THE SCOPE</span><h2>Same study, another view.</h2><p>This dashboard is the visualization layer of the <a href="https://justin-pierite-data-work.kvngisaa.chatgpt.site/#retail-analysis">retail SQL case study</a>. It uses the same historical dataset and cleaning rules. The implementation was developed with AI assistance.</p><p>Country and month controls apply to KPIs, monthly values, and product rankings. Market context compares all countries for that period. The CSV export records those scopes explicitly.</p></section>
+      <section class="method-note"><span class="eyebrow">CHECK THE ASSUMPTIONS</span><h2>Policies remain visible.</h2><p>Remove 5,268 exact repeats under a stated policy. Exclude 2,512 nonpositive-price lines after deduplication. Keep signed credits and missing customer IDs in totals. Calculate extended amounts in integer pence.</p><p>The base analysis passes 14 reconciliation checks. This dashboard adds complete product aggregation and filter checks. Repeated rows could be legitimate; the source study reports the alternative total. Credits are not matched to originating sales or proven cash refunds.</p></section>
+    </div>
+    <footer><p>Source: Chen, D. (2015), <a href="https://archive.ics.uci.edu/dataset/352/online+retail" target="_blank" rel="noopener noreferrer">UCI Online Retail<span class="sr-only"> (opens in a new tab)</span></a>, <a href="https://doi.org/10.24432/C5BW33" target="_blank" rel="noopener noreferrer">DOI 10.24432/C5BW33<span class="sr-only"> (opens in a new tab)</span></a>. <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0<span class="sr-only"> (opens in a new tab)</span></a>. Aggregation and filtering modify the original data.</p><a href="https://justin-pierite-data-work.kvngisaa.chatgpt.site/">Return to portfolio</a></footer>
+  </main>
+</body>
+</html>

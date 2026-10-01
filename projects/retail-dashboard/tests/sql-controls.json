@@ -1,0 +1,2583 @@
+[
+  {
+    "state": {
+      "country": "all",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 974813107,
+      "gross": 1064211080,
+      "credits": 89397973,
+      "invoices": 19960
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "all",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 931543001,
+      "gross": 1000432047,
+      "credits": 68889046,
+      "invoices": 19141
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "0",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 13700977,
+      "gross": 13845381,
+      "credits": 144404,
+      "invoices": 57
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "0",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 13700977,
+      "gross": 13845381,
+      "credits": 144404,
+      "invoices": 57
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "1",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 1015432,
+      "gross": 1019868,
+      "credits": 4436,
+      "invoices": 17
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "1",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 947112,
+      "gross": 951548,
+      "credits": 4436,
+      "invoices": 16
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "2",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 54840,
+      "gross": 75414,
+      "credits": 20574,
+      "invoices": 3
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "2",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 54840,
+      "gross": 75414,
+      "credits": 20574,
+      "invoices": 3
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "3",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 4091096,
+      "gross": 4119634,
+      "credits": 28538,
+      "invoices": 98
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "3",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 3950153,
+      "gross": 3977861,
+      "credits": 27708,
+      "invoices": 94
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "4",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 114360,
+      "gross": 114360,
+      "credits": 0,
+      "invoices": 1
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "4",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 114360,
+      "gross": 114360,
+      "credits": 0,
+      "invoices": 1
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "5",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 366638,
+      "gross": 366638,
+      "credits": 0,
+      "invoices": 6
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "5",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 366638,
+      "gross": 366638,
+      "credits": 0,
+      "invoices": 6
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "6",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 2007639,
+      "gross": 2044054,
+      "credits": 36415,
+      "invoices": 26
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "6",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 1988224,
+      "gross": 2024214,
+      "credits": 35990,
+      "invoices": 25
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "7",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 1285876,
+      "gross": 1350285,
+      "credits": 64409,
+      "invoices": 16
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "7",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 1295001,
+      "gross": 1350285,
+      "credits": 55284,
+      "invoices": 16
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "8",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 70772,
+      "gross": 82674,
+      "credits": 11902,
+      "invoices": 2
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "8",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 70772,
+      "gross": 82674,
+      "credits": 11902,
+      "invoices": 2
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "9",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 1876814,
+      "gross": 1895534,
+      "credits": 18720,
+      "invoices": 18
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "9",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 1859924,
+      "gross": 1878644,
+      "credits": 18720,
+      "invoices": 17
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "10",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 26299338,
+      "gross": 28314052,
+      "credits": 2014714,
+      "invoices": 288
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "10",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 25567034,
+      "gross": 27579963,
+      "credits": 2012929,
+      "invoices": 278
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "11",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 129175,
+      "gross": 130025,
+      "credits": 850,
+      "invoices": 4
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "11",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 129175,
+      "gross": 130025,
+      "credits": 850,
+      "invoices": 4
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "12",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 2232674,
+      "gross": 2254608,
+      "credits": 21934,
+      "invoices": 41
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "12",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 2109606,
+      "gross": 2131332,
+      "credits": 21726,
+      "invoices": 38
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "13",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 19731711,
+      "gross": 20962537,
+      "credits": 1230826,
+      "invoices": 392
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "13",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 19026828,
+      "gross": 20234845,
+      "credits": 1208017,
+      "invoices": 374
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "14",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 22150947,
+      "gross": 22867840,
+      "credits": 716893,
+      "invoices": 457
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "14",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 21370477,
+      "gross": 22069423,
+      "credits": 698946,
+      "invoices": 440
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "15",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 471052,
+      "gross": 476052,
+      "credits": 5000,
+      "invoices": 5
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "15",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 402953,
+      "gross": 407953,
+      "credits": 5000,
+      "invoices": 4
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "16",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 990824,
+      "gross": 1548300,
+      "credits": 557476,
+      "invoices": 11
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "16",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 990824,
+      "gross": 1548300,
+      "credits": 557476,
+      "invoices": 11
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "17",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 431000,
+      "gross": 431000,
+      "credits": 0,
+      "invoices": 7
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "17",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 408518,
+      "gross": 408518,
+      "credits": 0,
+      "invoices": 6
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "18",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 790197,
+      "gross": 812941,
+      "credits": 22744,
+      "invoices": 8
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "18",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 790197,
+      "gross": 812941,
+      "credits": 22744,
+      "invoices": 8
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "19",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 1689051,
+      "gross": 1748324,
+      "credits": 59273,
+      "invoices": 38
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "19",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 1669006,
+      "gross": 1728279,
+      "credits": 59273,
+      "invoices": 37
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "20",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 3534062,
+      "gross": 3741637,
+      "credits": 207575,
+      "invoices": 19
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "20",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 3545755,
+      "gross": 3741637,
+      "credits": 195882,
+      "invoices": 19
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "21",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 169388,
+      "gross": 169388,
+      "credits": 0,
+      "invoices": 1
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "21",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 169388,
+      "gross": 169388,
+      "credits": 0,
+      "invoices": 1
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "22",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 166106,
+      "gross": 166106,
+      "credits": 0,
+      "invoices": 4
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "22",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 166106,
+      "gross": 166106,
+      "credits": 0,
+      "invoices": 4
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "23",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 250547,
+      "gross": 272559,
+      "credits": 22012,
+      "invoices": 5
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "23",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 253628,
+      "gross": 272559,
+      "credits": 18931,
+      "invoices": 5
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "24",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 28466154,
+      "gross": 28544634,
+      "credits": 78480,
+      "invoices": 94
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "24",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 27293352,
+      "gross": 27371832,
+      "credits": 78480,
+      "invoices": 91
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "25",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 3516346,
+      "gross": 3616544,
+      "credits": 100198,
+      "invoices": 36
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "25",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 3237776,
+      "gross": 3337974,
+      "credits": 100198,
+      "invoices": 33
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "26",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 721314,
+      "gross": 733465,
+      "credits": 12151,
+      "invoices": 19
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "26",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 721314,
+      "gross": 733465,
+      "credits": 12151,
+      "invoices": 19
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "27",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 2930297,
+      "gross": 3368305,
+      "credits": 438008,
+      "invoices": 58
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "27",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 2650102,
+      "gross": 3087486,
+      "credits": 437384,
+      "invoices": 54
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "28",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 100231,
+      "gross": 100231,
+      "credits": 0,
+      "invoices": 1
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "28",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 100231,
+      "gross": 100231,
+      "credits": 0,
+      "invoices": 1
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "29",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 13117,
+      "gross": 14592,
+      "credits": 1475,
+      "invoices": 1
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "29",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 13117,
+      "gross": 14592,
+      "credits": 1475,
+      "invoices": 1
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "30",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 912039,
+      "gross": 2127929,
+      "credits": 1215890,
+      "invoices": 7
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "30",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 912039,
+      "gross": 2127929,
+      "credits": 1215890,
+      "invoices": 7
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "31",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 5475603,
+      "gross": 6155856,
+      "credits": 680253,
+      "invoices": 90
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "31",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 5448460,
+      "gross": 6124235,
+      "credits": 675775,
+      "invoices": 88
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "32",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 3658541,
+      "gross": 3836783,
+      "credits": 178242,
+      "invoices": 36
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "32",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 3658541,
+      "gross": 3812983,
+      "credits": 154442,
+      "invoices": 35
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "33",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 5636305,
+      "gross": 5706760,
+      "credits": 70455,
+      "invoices": 54
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "33",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 5636305,
+      "gross": 5706760,
+      "credits": 70455,
+      "invoices": 54
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "34",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 173092,
+      "gross": 358039,
+      "credits": 184947,
+      "invoices": 5
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "34",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 111564,
+      "gross": 269515,
+      "credits": 157951,
+      "invoices": 3
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "35",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 190228,
+      "gross": 190228,
+      "credits": 0,
+      "invoices": 3
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "35",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 190228,
+      "gross": 190228,
+      "credits": 0,
+      "invoices": 3
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "36",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 818925230,
+      "gross": 900174409,
+      "credits": 81249179,
+      "invoices": 18019
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "36",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 780148382,
+      "gross": 841012435,
+      "credits": 60864053,
+      "invoices": 17273
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "37",
+      "start": 0,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 474094,
+      "gross": 474094,
+      "credits": 0,
+      "invoices": 13
+    },
+    "eligibleMonths": 13
+  },
+  {
+    "state": {
+      "country": "37",
+      "start": 0,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 474094,
+      "gross": 474094,
+      "credits": 0,
+      "invoices": 13
+    },
+    "eligibleMonths": 12
+  },
+  {
+    "state": {
+      "country": "all",
+      "start": 3,
+      "end": 6,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 258645315,
+      "gross": 278302737,
+      "credits": 19657422,
+      "invoices": 5914
+    },
+    "eligibleMonths": 4,
+    "products": {
+      "net": [
+        {
+          "sku": "22423",
+          "net": 5276966,
+          "gross": 5555081,
+          "credits": 278115
+        },
+        {
+          "sku": "47566",
+          "net": 5096761,
+          "gross": 5157566,
+          "credits": 60805
+        },
+        {
+          "sku": "22502",
+          "net": 4676075,
+          "gross": 4714600,
+          "credits": 38525
+        },
+        {
+          "sku": "85099B",
+          "net": 2933932,
+          "gross": 2936717,
+          "credits": 2785
+        },
+        {
+          "sku": "85123A",
+          "net": 2642647,
+          "gross": 3151292,
+          "credits": 508645
+        },
+        {
+          "sku": "84879",
+          "net": 1609248,
+          "gross": 1615670,
+          "credits": 6422
+        },
+        {
+          "sku": "23298",
+          "net": 1446030,
+          "gross": 1465670,
+          "credits": 19640
+        },
+        {
+          "sku": "22386",
+          "net": 1347700,
+          "gross": 1351909,
+          "credits": 4209
+        },
+        {
+          "sku": "85099F",
+          "net": 1261534,
+          "gross": 1261742,
+          "credits": 208
+        },
+        {
+          "sku": "20725",
+          "net": 1239023,
+          "gross": 1242408,
+          "credits": 3385
+        }
+      ],
+      "gross": [
+        {
+          "sku": "22423",
+          "net": 5276966,
+          "gross": 5555081,
+          "credits": 278115
+        },
+        {
+          "sku": "47566",
+          "net": 5096761,
+          "gross": 5157566,
+          "credits": 60805
+        },
+        {
+          "sku": "22502",
+          "net": 4676075,
+          "gross": 4714600,
+          "credits": 38525
+        },
+        {
+          "sku": "85123A",
+          "net": 2642647,
+          "gross": 3151292,
+          "credits": 508645
+        },
+        {
+          "sku": "85099B",
+          "net": 2933932,
+          "gross": 2936717,
+          "credits": 2785
+        },
+        {
+          "sku": "84879",
+          "net": 1609248,
+          "gross": 1615670,
+          "credits": 6422
+        },
+        {
+          "sku": "23298",
+          "net": 1446030,
+          "gross": 1465670,
+          "credits": 19640
+        },
+        {
+          "sku": "22386",
+          "net": 1347700,
+          "gross": 1351909,
+          "credits": 4209
+        },
+        {
+          "sku": "85099F",
+          "net": 1261534,
+          "gross": 1261742,
+          "credits": 208
+        },
+        {
+          "sku": "20725",
+          "net": 1239023,
+          "gross": 1242408,
+          "credits": 3385
+        }
+      ],
+      "credits": [
+        {
+          "sku": "21108",
+          "net": 55254,
+          "gross": 709194,
+          "credits": 653940
+        },
+        {
+          "sku": "85123A",
+          "net": 2642647,
+          "gross": 3151292,
+          "credits": 508645
+        },
+        {
+          "sku": "48185",
+          "net": 631675,
+          "gross": 1085515,
+          "credits": 453840
+        },
+        {
+          "sku": "21175",
+          "net": 478359,
+          "gross": 852392,
+          "credits": 374033
+        },
+        {
+          "sku": "47566B",
+          "net": 302944,
+          "gross": 638309,
+          "credits": 335365
+        },
+        {
+          "sku": "22423",
+          "net": 5276966,
+          "gross": 5555081,
+          "credits": 278115
+        },
+        {
+          "sku": "22328",
+          "net": 425258,
+          "gross": 587623,
+          "credits": 162365
+        },
+        {
+          "sku": "71477",
+          "net": 430878,
+          "gross": 547303,
+          "credits": 116425
+        },
+        {
+          "sku": "23170",
+          "net": 426420,
+          "gross": 510105,
+          "credits": 83685
+        },
+        {
+          "sku": "22920",
+          "net": 69014,
+          "gross": 152339,
+          "credits": 83325
+        }
+      ]
+    }
+  },
+  {
+    "state": {
+      "country": "14",
+      "start": 5,
+      "end": 8,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 7335343,
+      "gross": 7464280,
+      "credits": 128937,
+      "invoices": 138
+    },
+    "eligibleMonths": 4,
+    "products": {
+      "net": [
+        {
+          "sku": "22423",
+          "net": 179160,
+          "gross": 187005,
+          "credits": 7845
+        },
+        {
+          "sku": "22326",
+          "net": 143515,
+          "gross": 145875,
+          "credits": 2360
+        },
+        {
+          "sku": "22328",
+          "net": 94695,
+          "gross": 95580,
+          "credits": 885
+        },
+        {
+          "sku": "15036",
+          "net": 79836,
+          "gross": 79836,
+          "credits": 0
+        },
+        {
+          "sku": "15056BL",
+          "net": 72540,
+          "gross": 72540,
+          "credits": 0
+        },
+        {
+          "sku": "22352",
+          "net": 58965,
+          "gross": 59220,
+          "credits": 255
+        },
+        {
+          "sku": "15056N",
+          "net": 58855,
+          "gross": 58855,
+          "credits": 0
+        },
+        {
+          "sku": "22989",
+          "net": 54800,
+          "gross": 54800,
+          "credits": 0
+        },
+        {
+          "sku": "20679",
+          "net": 54690,
+          "gross": 54690,
+          "credits": 0
+        },
+        {
+          "sku": "85014B",
+          "net": 52320,
+          "gross": 52320,
+          "credits": 0
+        }
+      ],
+      "gross": [
+        {
+          "sku": "22423",
+          "net": 179160,
+          "gross": 187005,
+          "credits": 7845
+        },
+        {
+          "sku": "22326",
+          "net": 143515,
+          "gross": 145875,
+          "credits": 2360
+        },
+        {
+          "sku": "22328",
+          "net": 94695,
+          "gross": 95580,
+          "credits": 885
+        },
+        {
+          "sku": "15036",
+          "net": 79836,
+          "gross": 79836,
+          "credits": 0
+        },
+        {
+          "sku": "15056BL",
+          "net": 72540,
+          "gross": 72540,
+          "credits": 0
+        },
+        {
+          "sku": "22352",
+          "net": 58965,
+          "gross": 59220,
+          "credits": 255
+        },
+        {
+          "sku": "15056N",
+          "net": 58855,
+          "gross": 58855,
+          "credits": 0
+        },
+        {
+          "sku": "22989",
+          "net": 54800,
+          "gross": 54800,
+          "credits": 0
+        },
+        {
+          "sku": "20679",
+          "net": 54690,
+          "gross": 54690,
+          "credits": 0
+        },
+        {
+          "sku": "85014B",
+          "net": 52320,
+          "gross": 52320,
+          "credits": 0
+        }
+      ],
+      "credits": [
+        {
+          "sku": "22423",
+          "net": 179160,
+          "gross": 187005,
+          "credits": 7845
+        },
+        {
+          "sku": "22634",
+          "net": 9785,
+          "gross": 17580,
+          "credits": 7795
+        },
+        {
+          "sku": "22504",
+          "net": 0,
+          "gross": 5990,
+          "credits": 5990
+        },
+        {
+          "sku": "20977",
+          "net": 16000,
+          "gross": 20000,
+          "credits": 4000
+        },
+        {
+          "sku": "22605",
+          "net": -3285,
+          "gross": 0,
+          "credits": 3285
+        },
+        {
+          "sku": "23199",
+          "net": 42718,
+          "gross": 45630,
+          "credits": 2912
+        },
+        {
+          "sku": "22965",
+          "net": 0,
+          "gross": 2520,
+          "credits": 2520
+        },
+        {
+          "sku": "22326",
+          "net": 143515,
+          "gross": 145875,
+          "credits": 2360
+        },
+        {
+          "sku": "23200",
+          "net": 29120,
+          "gross": 31200,
+          "credits": 2080
+        },
+        {
+          "sku": "22467",
+          "net": 18240,
+          "gross": 20310,
+          "credits": 2070
+        }
+      ]
+    }
+  },
+  {
+    "state": {
+      "country": "36",
+      "start": 10,
+      "end": 11,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 215365624,
+      "gross": 225533821,
+      "credits": 10168197,
+      "invoices": 4301
+    },
+    "eligibleMonths": 2,
+    "products": {
+      "net": [
+        {
+          "sku": "22086",
+          "net": 3725553,
+          "gross": 3796953,
+          "credits": 71400
+        },
+        {
+          "sku": "23084",
+          "net": 2663340,
+          "gross": 2677311,
+          "credits": 13971
+        },
+        {
+          "sku": "85099B",
+          "net": 1924308,
+          "gross": 2050210,
+          "credits": 125902
+        },
+        {
+          "sku": "22423",
+          "net": 1862262,
+          "gross": 1962027,
+          "credits": 99765
+        },
+        {
+          "sku": "22197",
+          "net": 1788846,
+          "gross": 1811990,
+          "credits": 23144
+        },
+        {
+          "sku": "22910",
+          "net": 1722721,
+          "gross": 1754246,
+          "credits": 31525
+        },
+        {
+          "sku": "23355",
+          "net": 1688821,
+          "gross": 1727611,
+          "credits": 38790
+        },
+        {
+          "sku": "85123A",
+          "net": 1642805,
+          "gross": 1644200,
+          "credits": 1395
+        },
+        {
+          "sku": "79321",
+          "net": 1608420,
+          "gross": 1609490,
+          "credits": 1070
+        },
+        {
+          "sku": "23284",
+          "net": 1548258,
+          "gross": 1701888,
+          "credits": 153630
+        }
+      ],
+      "gross": [
+        {
+          "sku": "22086",
+          "net": 3725553,
+          "gross": 3796953,
+          "credits": 71400
+        },
+        {
+          "sku": "23084",
+          "net": 2663340,
+          "gross": 2677311,
+          "credits": 13971
+        },
+        {
+          "sku": "85099B",
+          "net": 1924308,
+          "gross": 2050210,
+          "credits": 125902
+        },
+        {
+          "sku": "22423",
+          "net": 1862262,
+          "gross": 1962027,
+          "credits": 99765
+        },
+        {
+          "sku": "22197",
+          "net": 1788846,
+          "gross": 1811990,
+          "credits": 23144
+        },
+        {
+          "sku": "22910",
+          "net": 1722721,
+          "gross": 1754246,
+          "credits": 31525
+        },
+        {
+          "sku": "23355",
+          "net": 1688821,
+          "gross": 1727611,
+          "credits": 38790
+        },
+        {
+          "sku": "23284",
+          "net": 1548258,
+          "gross": 1701888,
+          "credits": 153630
+        },
+        {
+          "sku": "85123A",
+          "net": 1642805,
+          "gross": 1644200,
+          "credits": 1395
+        },
+        {
+          "sku": "79321",
+          "net": 1608420,
+          "gross": 1609490,
+          "credits": 1070
+        }
+      ],
+      "credits": [
+        {
+          "sku": "22273",
+          "net": 338393,
+          "gross": 688183,
+          "credits": 349790
+        },
+        {
+          "sku": "23056",
+          "net": 48284,
+          "gross": 207069,
+          "credits": 158785
+        },
+        {
+          "sku": "23284",
+          "net": 1548258,
+          "gross": 1701888,
+          "credits": 153630
+        },
+        {
+          "sku": "20971",
+          "net": 626893,
+          "gross": 764269,
+          "credits": 137376
+        },
+        {
+          "sku": "21843",
+          "net": 230676,
+          "gross": 357306,
+          "credits": 126630
+        },
+        {
+          "sku": "85099B",
+          "net": 1924308,
+          "gross": 2050210,
+          "credits": 125902
+        },
+        {
+          "sku": "22149",
+          "net": 225561,
+          "gross": 336981,
+          "credits": 111420
+        },
+        {
+          "sku": "22147",
+          "net": 197520,
+          "gross": 302810,
+          "credits": 105290
+        },
+        {
+          "sku": "22423",
+          "net": 1862262,
+          "gross": 1962027,
+          "credits": 99765
+        },
+        {
+          "sku": "22570",
+          "net": 158471,
+          "gross": 239831,
+          "credits": 81360
+        }
+      ]
+    }
+  },
+  {
+    "state": {
+      "country": "13",
+      "start": 0,
+      "end": 0,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 957536,
+      "gross": 961631,
+      "credits": 4095,
+      "invoices": 21
+    },
+    "eligibleMonths": 1,
+    "products": {
+      "net": [
+        {
+          "sku": "21731",
+          "net": 31680,
+          "gross": 31680,
+          "credits": 0
+        },
+        {
+          "sku": "84879",
+          "net": 20280,
+          "gross": 20280,
+          "credits": 0
+        },
+        {
+          "sku": "22326",
+          "net": 17700,
+          "gross": 17700,
+          "credits": 0
+        },
+        {
+          "sku": "84963A",
+          "net": 17180,
+          "gross": 17180,
+          "credits": 0
+        },
+        {
+          "sku": "20750",
+          "net": 15900,
+          "gross": 15900,
+          "credits": 0
+        },
+        {
+          "sku": "20685",
+          "net": 15090,
+          "gross": 15090,
+          "credits": 0
+        },
+        {
+          "sku": "48138",
+          "net": 15090,
+          "gross": 15090,
+          "credits": 0
+        },
+        {
+          "sku": "15056BL",
+          "net": 12495,
+          "gross": 12495,
+          "credits": 0
+        },
+        {
+          "sku": "20682",
+          "net": 11700,
+          "gross": 11700,
+          "credits": 0
+        },
+        {
+          "sku": "20679",
+          "net": 10710,
+          "gross": 10710,
+          "credits": 0
+        }
+      ],
+      "gross": [
+        {
+          "sku": "21731",
+          "net": 31680,
+          "gross": 31680,
+          "credits": 0
+        },
+        {
+          "sku": "84879",
+          "net": 20280,
+          "gross": 20280,
+          "credits": 0
+        },
+        {
+          "sku": "22326",
+          "net": 17700,
+          "gross": 17700,
+          "credits": 0
+        },
+        {
+          "sku": "84963A",
+          "net": 17180,
+          "gross": 17180,
+          "credits": 0
+        },
+        {
+          "sku": "20750",
+          "net": 15900,
+          "gross": 15900,
+          "credits": 0
+        },
+        {
+          "sku": "20685",
+          "net": 15090,
+          "gross": 15090,
+          "credits": 0
+        },
+        {
+          "sku": "48138",
+          "net": 15090,
+          "gross": 15090,
+          "credits": 0
+        },
+        {
+          "sku": "15056BL",
+          "net": 12495,
+          "gross": 12495,
+          "credits": 0
+        },
+        {
+          "sku": "20682",
+          "net": 11700,
+          "gross": 11700,
+          "credits": 0
+        },
+        {
+          "sku": "20679",
+          "net": 10710,
+          "gross": 10710,
+          "credits": 0
+        }
+      ],
+      "credits": [
+        {
+          "sku": "22634",
+          "net": 0,
+          "gross": 1990,
+          "credits": 1990
+        },
+        {
+          "sku": "22667",
+          "net": 885,
+          "gross": 1770,
+          "credits": 885
+        },
+        {
+          "sku": "22662",
+          "net": 0,
+          "gross": 495,
+          "credits": 495
+        },
+        {
+          "sku": "22630",
+          "net": 1950,
+          "gross": 2340,
+          "credits": 390
+        },
+        {
+          "sku": "22450",
+          "net": -335,
+          "gross": 0,
+          "credits": 335
+        }
+      ]
+    }
+  },
+  {
+    "state": {
+      "country": "34",
+      "start": 12,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 61528,
+      "gross": 88524,
+      "credits": 26996,
+      "invoices": 2
+    },
+    "eligibleMonths": 1,
+    "products": {
+      "net": [
+        {
+          "sku": "23328",
+          "net": 8136,
+          "gross": 8136,
+          "credits": 0
+        },
+        {
+          "sku": "20975",
+          "net": 4680,
+          "gross": 4680,
+          "credits": 0
+        },
+        {
+          "sku": "23366",
+          "net": 4680,
+          "gross": 4680,
+          "credits": 0
+        },
+        {
+          "sku": "22083",
+          "net": 3540,
+          "gross": 3540,
+          "credits": 0
+        },
+        {
+          "sku": "84997A",
+          "net": 3320,
+          "gross": 3320,
+          "credits": 0
+        },
+        {
+          "sku": "84997B",
+          "net": 3320,
+          "gross": 3320,
+          "credits": 0
+        },
+        {
+          "sku": "84997C",
+          "net": 3320,
+          "gross": 3320,
+          "credits": 0
+        },
+        {
+          "sku": "84997D",
+          "net": 3320,
+          "gross": 3320,
+          "credits": 0
+        },
+        {
+          "sku": "21242",
+          "net": 2704,
+          "gross": 2704,
+          "credits": 0
+        },
+        {
+          "sku": "21243",
+          "net": 2704,
+          "gross": 2704,
+          "credits": 0
+        }
+      ],
+      "gross": [
+        {
+          "sku": "23328",
+          "net": 8136,
+          "gross": 8136,
+          "credits": 0
+        },
+        {
+          "sku": "23158",
+          "net": 0,
+          "gross": 7488,
+          "credits": 7488
+        },
+        {
+          "sku": "23392",
+          "net": 0,
+          "gross": 4992,
+          "credits": 4992
+        },
+        {
+          "sku": "20975",
+          "net": 4680,
+          "gross": 4680,
+          "credits": 0
+        },
+        {
+          "sku": "23366",
+          "net": 4680,
+          "gross": 4680,
+          "credits": 0
+        },
+        {
+          "sku": "22083",
+          "net": 3540,
+          "gross": 3540,
+          "credits": 0
+        },
+        {
+          "sku": "84997A",
+          "net": 3320,
+          "gross": 3320,
+          "credits": 0
+        },
+        {
+          "sku": "84997B",
+          "net": 3320,
+          "gross": 3320,
+          "credits": 0
+        },
+        {
+          "sku": "84997C",
+          "net": 3320,
+          "gross": 3320,
+          "credits": 0
+        },
+        {
+          "sku": "84997D",
+          "net": 3320,
+          "gross": 3320,
+          "credits": 0
+        }
+      ],
+      "credits": [
+        {
+          "sku": "23158",
+          "net": 0,
+          "gross": 7488,
+          "credits": 7488
+        },
+        {
+          "sku": "23392",
+          "net": 0,
+          "gross": 4992,
+          "credits": 4992
+        },
+        {
+          "sku": "23209",
+          "net": 0,
+          "gross": 3300,
+          "credits": 3300
+        },
+        {
+          "sku": "84828",
+          "net": 0,
+          "gross": 3000,
+          "credits": 3000
+        },
+        {
+          "sku": "23344",
+          "net": 0,
+          "gross": 2080,
+          "credits": 2080
+        },
+        {
+          "sku": "85099B",
+          "net": 0,
+          "gross": 2080,
+          "credits": 2080
+        },
+        {
+          "sku": "79191C",
+          "net": 0,
+          "gross": 2040,
+          "credits": 2040
+        },
+        {
+          "sku": "21507",
+          "net": 0,
+          "gross": 504,
+          "credits": 504
+        },
+        {
+          "sku": "21508",
+          "net": 0,
+          "gross": 504,
+          "credits": 504
+        },
+        {
+          "sku": "22027",
+          "net": 0,
+          "gross": 504,
+          "credits": 504
+        }
+      ]
+    }
+  },
+  {
+    "state": {
+      "country": "all",
+      "start": 12,
+      "end": 12,
+      "completeOnly": true
+    },
+    "totals": {
+      "net": 0,
+      "gross": 0,
+      "credits": 0,
+      "invoices": 0
+    },
+    "eligibleMonths": 0,
+    "products": {
+      "net": [],
+      "gross": [],
+      "credits": []
+    }
+  },
+  {
+    "state": {
+      "country": "20",
+      "start": 1,
+      "end": 5,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 1182063,
+      "gross": 1372966,
+      "credits": 190903,
+      "invoices": 8
+    },
+    "eligibleMonths": 5,
+    "products": {
+      "net": [
+        {
+          "sku": "21217",
+          "net": 64440,
+          "gross": 64440,
+          "credits": 0
+        },
+        {
+          "sku": "22561",
+          "net": 52365,
+          "gross": 52365,
+          "credits": 0
+        },
+        {
+          "sku": "20750",
+          "net": 45720,
+          "gross": 45720,
+          "credits": 0
+        },
+        {
+          "sku": "21218",
+          "net": 43550,
+          "gross": 46800,
+          "credits": 3250
+        },
+        {
+          "sku": "21216",
+          "net": 40800,
+          "gross": 40800,
+          "credits": 0
+        },
+        {
+          "sku": "47566",
+          "net": 37500,
+          "gross": 37500,
+          "credits": 0
+        },
+        {
+          "sku": "47566B",
+          "net": 34590,
+          "gross": 34590,
+          "credits": 0
+        },
+        {
+          "sku": "21056",
+          "net": 31800,
+          "gross": 31800,
+          "credits": 0
+        },
+        {
+          "sku": "22492",
+          "net": 31745,
+          "gross": 31745,
+          "credits": 0
+        },
+        {
+          "sku": "22662",
+          "net": 29000,
+          "gross": 29000,
+          "credits": 0
+        }
+      ],
+      "gross": [
+        {
+          "sku": "21217",
+          "net": 64440,
+          "gross": 64440,
+          "credits": 0
+        },
+        {
+          "sku": "22561",
+          "net": 52365,
+          "gross": 52365,
+          "credits": 0
+        },
+        {
+          "sku": "21218",
+          "net": 43550,
+          "gross": 46800,
+          "credits": 3250
+        },
+        {
+          "sku": "20750",
+          "net": 45720,
+          "gross": 45720,
+          "credits": 0
+        },
+        {
+          "sku": "21216",
+          "net": 40800,
+          "gross": 40800,
+          "credits": 0
+        },
+        {
+          "sku": "47566",
+          "net": 37500,
+          "gross": 37500,
+          "credits": 0
+        },
+        {
+          "sku": "47566B",
+          "net": 34590,
+          "gross": 34590,
+          "credits": 0
+        },
+        {
+          "sku": "21056",
+          "net": 31800,
+          "gross": 31800,
+          "credits": 0
+        },
+        {
+          "sku": "22492",
+          "net": 31745,
+          "gross": 31745,
+          "credits": 0
+        },
+        {
+          "sku": "22088",
+          "net": 20400,
+          "gross": 30600,
+          "credits": 10200
+        }
+      ],
+      "credits": [
+        {
+          "sku": "22328",
+          "net": -159120,
+          "gross": 0,
+          "credits": 159120
+        },
+        {
+          "sku": "22088",
+          "net": 20400,
+          "gross": 30600,
+          "credits": 10200
+        },
+        {
+          "sku": "21218",
+          "net": 43550,
+          "gross": 46800,
+          "credits": 3250
+        },
+        {
+          "sku": "22957",
+          "net": 9180,
+          "gross": 12240,
+          "credits": 3060
+        },
+        {
+          "sku": "22364",
+          "net": 4120,
+          "gross": 6415,
+          "credits": 2295
+        },
+        {
+          "sku": "21452",
+          "net": 11220,
+          "gross": 12240,
+          "credits": 1020
+        },
+        {
+          "sku": "22654",
+          "net": 19405,
+          "gross": 20395,
+          "credits": 990
+        },
+        {
+          "sku": "23176",
+          "net": 6525,
+          "gross": 7425,
+          "credits": 900
+        },
+        {
+          "sku": "22637",
+          "net": 9450,
+          "gross": 10080,
+          "credits": 630
+        },
+        {
+          "sku": "22567",
+          "net": -250,
+          "gross": 125,
+          "credits": 375
+        }
+      ]
+    }
+  },
+  {
+    "state": {
+      "country": "all",
+      "start": 11,
+      "end": 12,
+      "completeOnly": false
+    },
+    "totals": {
+      "net": 188884686,
+      "gross": 214165711,
+      "credits": 25281025,
+      "invoices": 3588
+    },
+    "eligibleMonths": 2,
+    "products": {
+      "net": [
+        {
+          "sku": "23084",
+          "net": 4394722,
+          "gross": 4410686,
+          "credits": 15964
+        },
+        {
+          "sku": "22086",
+          "net": 3572130,
+          "gross": 3582330,
+          "credits": 10200
+        },
+        {
+          "sku": "22197",
+          "net": 1937180,
+          "gross": 1961260,
+          "credits": 24080
+        },
+        {
+          "sku": "22423",
+          "net": 1866315,
+          "gross": 1976820,
+          "credits": 110505
+        },
+        {
+          "sku": "85123A",
+          "net": 1633736,
+          "gross": 1635721,
+          "credits": 1985
+        },
+        {
+          "sku": "22910",
+          "net": 1557740,
+          "gross": 1569035,
+          "credits": 11295
+        },
+        {
+          "sku": "23355",
+          "net": 1541120,
+          "gross": 1573475,
+          "credits": 32355
+        },
+        {
+          "sku": "79321",
+          "net": 1410906,
+          "gross": 1412551,
+          "credits": 1645
+        },
+        {
+          "sku": "22114",
+          "net": 1372619,
+          "gross": 1400469,
+          "credits": 27850
+        },
+        {
+          "sku": "85099B",
+          "net": 1365183,
+          "gross": 1386619,
+          "credits": 21436
+        }
+      ],
+      "gross": [
+        {
+          "sku": "23843",
+          "net": 0,
+          "gross": 16846960,
+          "credits": 16846960
+        },
+        {
+          "sku": "23084",
+          "net": 4394722,
+          "gross": 4410686,
+          "credits": 15964
+        },
+        {
+          "sku": "22086",
+          "net": 3572130,
+          "gross": 3582330,
+          "credits": 10200
+        },
+        {
+          "sku": "22423",
+          "net": 1866315,
+          "gross": 1976820,
+          "credits": 110505
+        },
+        {
+          "sku": "22197",
+          "net": 1937180,
+          "gross": 1961260,
+          "credits": 24080
+        },
+        {
+          "sku": "85123A",
+          "net": 1633736,
+          "gross": 1635721,
+          "credits": 1985
+        },
+        {
+          "sku": "23355",
+          "net": 1541120,
+          "gross": 1573475,
+          "credits": 32355
+        },
+        {
+          "sku": "22910",
+          "net": 1557740,
+          "gross": 1569035,
+          "credits": 11295
+        },
+        {
+          "sku": "79321",
+          "net": 1410906,
+          "gross": 1412551,
+          "credits": 1645
+        },
+        {
+          "sku": "22114",
+          "net": 1372619,
+          "gross": 1400469,
+          "credits": 27850
+        }
+      ],
+      "credits": [
+        {
+          "sku": "23843",
+          "net": 0,
+          "gross": 16846960,
+          "credits": 16846960
+        },
+        {
+          "sku": "21843",
+          "net": 326712,
+          "gross": 461007,
+          "credits": 134295
+        },
+        {
+          "sku": "22423",
+          "net": 1866315,
+          "gross": 1976820,
+          "credits": 110505
+        },
+        {
+          "sku": "22313",
+          "net": -45304,
+          "gross": 18446,
+          "credits": 63750
+        },
+        {
+          "sku": "22635",
+          "net": 39668,
+          "gross": 103418,
+          "credits": 63750
+        },
+        {
+          "sku": "72807C",
+          "net": 39372,
+          "gross": 88067,
+          "credits": 48695
+        },
+        {
+          "sku": "22991",
+          "net": 90127,
+          "gross": 137647,
+          "credits": 47520
+        },
+        {
+          "sku": "22992",
+          "net": 205421,
+          "gross": 250961,
+          "credits": 45540
+        },
+        {
+          "sku": "22804",
+          "net": 103557,
+          "gross": 145537,
+          "credits": 41980
+        },
+        {
+          "sku": "22112",
+          "net": 1113189,
+          "gross": 1153485,
+          "credits": 40296
+        }
+      ]
+    }
+  }
+]
